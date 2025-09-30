@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "name": "Blue Ocean Bottle",
+    "price": 250,
+    "color": "blue",
+    "brand": "OceanX",
+    "weight": "500g",
+    "usageDuration": "2 years",
+    "img": "https://example.com/images/blue-ocean-bottle.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Green Eco Bottle",
+    "price": 300,
+    "color": "green",
+    "brand": "EcoPure",
+    "weight": "450g",
+    "usageDuration": "3 years",
+    "img": "https://example.com/images/green-eco-bottle.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Red Sport Bottle",
+    "price": 200,
+    "color": "red",
+    "brand": "Nike",
+    "weight": "400g",
+    "usageDuration": "1.5 years",
+    "img": "https://example.com/images/red-sport-bottle.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Black Steel Bottle",
+    "price": 450,
+    "color": "black",
+    "brand": "ThermoMax",
+    "weight": "600g",
+    "usageDuration": "5 years",
+    "img": "https://example.com/images/black-steel-bottle.jpg"
+  },
+  {
+    "id": 5,
+    "name": "White Classic Bottle",
+    "price": 150,
+    "color": "white",
+    "brand": "AquaLife",
+    "weight": "350g",
+    "usageDuration": "1 year",
+    "img": "https://example.com/images/white-classic-bottle.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Yellow Sunny Bottle",
+    "price": 220,
+    "color": "yellow",
+    "brand": "SunLife",
+    "weight": "380g",
+    "usageDuration": "2 years",
+    "img": "https://example.com/images/yellow-sunny-bottle.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Purple Trendy Bottle",
+    "price": 270,
+    "color": "purple",
+    "brand": "TrendyMax",
+    "weight": "420g",
+    "usageDuration": "2.5 years",
+    "img": "https://example.com/images/purple-trendy-bottle.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Silver Cool Bottle",
+    "price": 500,
+    "color": "silver",
+    "brand": "CoolSteel",
+    "weight": "650g",
+    "usageDuration": "6 years",
+    "img": "https://example.com/images/silver-cool-bottle.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Orange Fresh Bottle",
+    "price": 180,
+    "color": "orange",
+    "brand": "FreshGo",
+    "weight": "360g",
+    "usageDuration": "1.5 years",
+    "img": "https://example.com/images/orange-fresh-bottle.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Pink Stylish Bottle",
+    "price": 280,
+    "color": "pink",
+    "brand": "StyleX",
+    "weight": "400g",
+    "usageDuration": "2 years",
+    "img": "https://example.com/images/pink-stylish-bottle.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Brown Wooden Bottle",
+    "price": 350,
+    "color": "brown",
+    "brand": "WoodPure",
+    "weight": "550g",
+    "usageDuration": "4 years",
+    "img": "https://example.com/images/brown-wooden-bottle.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Grey Travel Bottle",
+    "price": 320,
+    "color": "grey",
+    "brand": "TravelMate",
+    "weight": "470g",
+    "usageDuration": "3 years",
+    "img": "https://example.com/images/grey-travel-bottle.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Golden Premium Bottle",
+    "price": 600,
+    "color": "gold",
+    "brand": "PremiumX",
+    "weight": "700g",
+    "usageDuration": "7 years",
+    "img": "https://example.com/images/golden-premium-bottle.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Transparent Crystal Bottle",
+    "price": 400,
+    "color": "transparent",
+    "brand": "CrystalClear",
+    "weight": "500g",
+    "usageDuration": "3 years",
+    "img": "https://example.com/images/transparent-crystal-bottle.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Teal FreshCool Bottle",
+    "price": 260,
+    "color": "teal",
+    "brand": "FreshCool",
+    "weight": "390g",
+    "usageDuration": "2 years",
+    "img": "https://example.com/images/teal-freshcool-bottle.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Navy Hydro Bottle",
+    "price": 330,
+    "color": "navy",
+    "brand": "HydroMax",
+    "weight": "480g",
+    "usageDuration": "3.5 years",
+    "img": "https://example.com/images/navy-hydro-bottle.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Cyan PureBottle",
+    "price": 210,
+    "color": "cyan",
+    "brand": "PureWave",
+    "weight": "370g",
+    "usageDuration": "2 years",
+    "img": "https://example.com/images/cyan-purebottle.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Maroon ClassicSteel Bottle",
+    "price": 390,
+    "color": "maroon",
+    "brand": "SteelX",
+    "weight": "560g",
+    "usageDuration": "4 years",
+    "img": "https://example.com/images/maroon-classicsteel-bottle.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Lime FreshBottle",
+    "price": 240,
+    "color": "lime",
+    "brand": "FreshLine",
+    "weight": "380g",
+    "usageDuration": "2.5 years",
+    "img": "https://example.com/images/lime-freshbottle.jpg"
+  },
+  {
+    "id": 20,
+    "name": "SkyBlue ChillBottle",
+    "price": 310,
+    "color": "skyblue",
+    "brand": "ChillMate",
+    "weight": "420g",
+    "usageDuration": "3 years",
+    "img": "https://example.com/images/skyblue-chillbottle.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Magenta Trend Bottle",
+    "price": 280,
+    "color": "magenta",
+    "brand": "TrendWave",
+    "weight": "400g",
+    "usageDuration": "2.5 years",
+    "img": "https://example.com/images/magenta-trend-bottle.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Olive Nature Bottle",
+    "price": 230,
+    "color": "olive",
+    "brand": "NatureX",
+    "weight": "380g",
+    "usageDuration": "2 years",
+    "img": "https://example.com/images/olive-nature-bottle.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Coral Summer Bottle",
+    "price": 270,
+    "color": "coral",
+    "brand": "SummerLife",
+    "weight": "410g",
+    "usageDuration": "2.5 years",
+    "img": "https://example.com/images/coral-summer-bottle.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Mint Fresh Bottle",
+    "price": 220,
+    "color": "mint",
+    "brand": "FreshMint",
+    "weight": "370g",
+    "usageDuration": "2 years",
+    "img": "https://example.com/images/mint-fresh-bottle.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Indigo Deep Bottle",
+    "price": 300,
+    "color": "indigo",
+    "brand": "DeepWave",
+    "weight": "450g",
+    "usageDuration": "3 years",
+    "img": "https://example.com/images/indigo-deep-bottle.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Turquoise Chill Bottle",
+    "price": 310,
+    "color": "turquoise",
+    "brand": "ChillWave",
+    "weight": "430g",
+    "usageDuration": "3 years",
+    "img": "https://example.com/images/turquoise-chill-bottle.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Lavender Sweet Bottle",
+    "price": 260,
+    "color": "lavender",
+    "brand": "SweetX",
+    "weight": "400g",
+    "usageDuration": "2.5 years",
+    "img": "https://example.com/images/lavender-sweet-bottle.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Peach Soft Bottle",
+    "price": 240,
+    "color": "peach",
+    "brand": "SoftLife",
+    "weight": "390g",
+    "usageDuration": "2 years",
+    "img": "https://example.com/images/peach-soft-bottle.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Chocolate Brown Bottle",
+    "price": 350,
+    "color": "chocolate",
+    "brand": "ChocoPure",
+    "weight": "550g",
+    "usageDuration": "4 years",
+    "img": "https://example.com/images/chocolate-brown-bottle.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Steel Grey Bottle",
+    "price": 400,
+    "color": "steelgrey",
+    "brand": "SteelMax",
+    "weight": "600g",
+    "usageDuration": "5 years",
+    "img": "https://example.com/images/steel-grey-bottle.jpg"
+  },
+  {
+    "id": 31,
+    "name": "Crimson Red Bottle",
+    "price": 280,
+    "color": "crimson",
+    "brand": "RedX",
+    "weight": "420g",
+    "usageDuration": "2.5 years",
+    "img": "https://example.com/images/crimson-red-bottle.jpg"
+  },
+  {
+    "id": 32,
+    "name": "Sky Navy Bottle",
+    "price": 330,
+    "color": "sky-navy",
+    "brand": "NavyMax",
+    "weight": "480g",
+    "usageDuration": "3 years",
+    "img": "https://example.com/images/sky-navy-bottle.jpg"
+  },
+  {
+    "id": 33,
+    "name": "Amber Glow Bottle",
+    "price": 260,
+    "color": "amber",
+    "brand": "GlowX",
+    "weight": "400g",
+    "usageDuration": "2 years",
+    "img": "https://example.com/images/amber-glow-bottle.jpg"
+  },
+  {
+    "id": 34,
+    "name": "Fuchsia Flash Bottle",
+    "price": 290,
+    "color": "fuchsia",
+    "brand": "FlashMax",
+    "weight": "430g",
+    "usageDuration": "2.5 years",
+    "img": "https://example.com/images/fuchsia-flash-bottle.jpg"
+  },
+  {
+    "id": 35,
+    "name": "Charcoal Black Bottle",
+    "price": 450,
+    "color": "charcoal",
+    "brand": "BlackSteel",
+    "weight": "600g",
+    "usageDuration": "5 years",
+    "img": "https://example.com/images/charcoal-black-bottle.jpg"
+  },
+  {
+    "id": 36,
+    "name": "Plum Purple Bottle",
+    "price": 270,
+    "color": "plum",
+    "brand": "PlumX",
+    "weight": "420g",
+    "usageDuration": "2 years",
+    "img": "https://example.com/images/plum-purple-bottle.jpg"
+  },
+  {
+    "id": 37,
+    "name": "Rose Pink Bottle",
+    "price": 280,
+    "color": "rose",
+    "brand": "RoseLife",
+    "weight": "400g",
+    "usageDuration": "2.5 years",
+    "img": "https://example.com/images/rose-pink-bottle.jpg"
+  },
+  {
+    "id": 38,
+    "name": "Ivory White Bottle",
+    "price": 150,
+    "color": "ivory",
+    "brand": "WhitePure",
+    "weight": "350g",
+    "usageDuration": "1.5 years",
+    "img": "https://example.com/images/ivory-white-bottle.jpg"
+  },
+  {
+    "id": 39,
+    "name": "Turquoise Sea Bottle",
+    "price": 310,
+    "color": "turquoise-sea",
+    "brand": "SeaWave",
+    "weight": "430g",
+    "usageDuration": "3 years",
+    "img": "https://example.com/images/turquoise-sea-bottle.jpg"
+  },
+  {
+    "id": 40,
+    "name": "Mint Green Bottle",
+    "price": 220,
+    "color": "mint-green",
+    "brand": "MintLife",
+    "weight": "370g",
+    "usageDuration": "2 years",
+    "img": "https://example.com/images/mint-green-bottle.jpg"
+  },
+  {
+    "id": 41,
+    "name": "Ocean Blue Bottle",
+    "price": 250,
+    "color": "ocean-blue",
+    "brand": "OceanLife",
+    "weight": "500g",
+    "usageDuration": "2 years",
+    "img": "https://example.com/images/ocean-blue-bottle.jpg"
+  },
+  {
+    "id": 42,
+    "name": "Sun Yellow Bottle",
+    "price": 220,
+    "color": "sun-yellow",
+    "brand": "SunMax",
+    "weight": "380g",
+    "usageDuration": "2 years",
+    "img": "https://example.com/images/sun-yellow-bottle.jpg"
+  },
+  {
+    "id": 43,
+    "name": "Forest Green Bottle",
+    "price": 300,
+    "color": "forest-green",
+    "brand": "ForestPure",
+    "weight": "450g",
+    "usageDuration": "3 years",
+    "img": "https://example.com/images/forest-green-bottle.jpg"
+  },
+  {
+    "id": 44,
+    "name": "Coral Red Bottle",
+    "price": 200,
+    "color": "coral-red",
+    "brand": "CoralMax",
+    "weight": "400g",
+    "usageDuration": "1.5 years",
+    "img": "https://example.com/images/coral-red-bottle.jpg"
+  },
+  {
+    "id": 45,
+    "name": "Lemon Yellow Bottle",
+    "price": 220,
+    "color": "lemon-yellow",
+    "brand": "LemonLife",
+    "weight": "380g",
+    "usageDuration": "2 years",
+    "img": "https://example.com/images/lemon-yellow-bottle.jpg"
+  },
+  {
+    "id": 46,
+    "name": "Violet Trendy Bottle",
+    "price": 270,
+    "color": "violet",
+    "brand": "TrendyVio",
+    "weight": "420g",
+    "usageDuration": "2.5 years",
+    "img": "https://example.com/images/violet-trendy-bottle.jpg"
+  },
+  {
+    "id": 47,
+    "name": "Sky Cyan Bottle",
+    "price": 210,
+    "color": "sky-cyan",
+    "brand": "SkyWave",
+    "weight": "370g",
+    "usageDuration": "2 years",
+    "img": "https://example.com/images/sky-cyan-bottle.jpg"
+  },
+  {
+    "id": 48,
+    "name": "Maroon Steel Bottle",
+    "price": 390,
+    "color": "maroon-steel",
+    "brand": "SteelMax",
+    "weight": "560g",
+    "usageDuration": "4 years",
+    "img": "https://example.com/images/maroon-steel-bottle.jpg"
+  },
+  {
+    "id": 49,
+    "name": "Lime Green Bottle",
+    "price": 240,
+    "color": "lime-green",
+    "brand": "FreshLime",
+    "weight": "380g",
+    "usageDuration": "2.5 years",
+    "img": "https://example.com/images/lime-green-bottle.jpg"
+  },
+  {
+    "id": 50,
+    "name": "Sky Blue Chill Bottle",
+    "price": 310,
+    "color": "sky-blue",
+    "brand": "ChillX",
+    "weight": "420g",
+    "usageDuration": "3 years",
+    "img": "https://example.com/images/sky-blue-chill-bottle.jpg"
+  }
+]
